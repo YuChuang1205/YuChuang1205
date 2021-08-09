@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yuchuang1205" alt="profile views" /> 
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YuChuang1205&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
 I am a postgraduate student at Shenyang Institute of Automation Chinese Academy of Sciences.
 
