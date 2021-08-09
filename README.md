@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=Yuchuang1205" alt="profile views" /> 
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YuChuang1205&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I am a postgraduate student at Shenyang Institute of Automation Chinese Academy of Sciences.
 
@@ -41,7 +42,7 @@ I am a postgraduate student at Shenyang Institute of Automation Chinese Academy 
 
 
 <!--
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YuChuang1205&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
