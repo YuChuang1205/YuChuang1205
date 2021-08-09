@@ -9,6 +9,24 @@
 
 I am a postgraduate student at Shenyang Institute of Automation Chinese Academy of Sciences.
 
+🔭 **Reseach-wise, I mainly focus on**:
+
+- Infrared small target segmentation
+- Cross-spectral image patch matching
+- Remote sensing image segmentation
+- Accurate measurement of fish characteristics
+
+😄 **I am open to**:
+
+- collaboration opportunities (anytime & anywhere & any type)
+- PhD position, research internships, or visiting scholar
+
+
+📫 **How to reach me**:
+
+- Email(邮箱): yuchuang@sia.cn
+- WeChat (微信号)：yuchuang1205 (Anoymous requests are not welcome)
+
 
 
 
