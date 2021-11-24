@@ -12,7 +12,7 @@ I am a postgraduate student at Shenyang Institute of Automation Chinese Academy 
 
 🔭 **Reseach-wise, I mainly focus on**:
 
-- Infrared small target segmentation
+- Infrared small target detection
 - Cross-spectral image patch matching
 - Remote sensing image segmentation
 - Accurate measurement of fish characteristics
