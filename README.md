@@ -26,7 +26,6 @@ I am a postgraduate student at Shenyang Institute of Automation Chinese Academy 
 📫 **How to reach me**:
 
 - Email(邮箱): yuchuang@sia.cn; yuchuang1205@163.com
-- WeChat (微信号)：yuchuang1205 (Anoymous requests are not welcome)
 
 
 🌱 **Publications**:
@@ -62,5 +61,6 @@ I am a postgraduate student at Shenyang Institute of Automation Chinese Academy 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- WeChat (微信号)：yuchuang1205 (Anoymous requests are not welcome)
 -->
 
