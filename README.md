@@ -12,8 +12,8 @@ I am a student at Shenyang Institute of Automation Chinese Academy of Sciences. 
 
 🔭 **Reseach-wise, I mainly focus on**:
 
+- Cross-spectral image patch matching  
 - Infrared small target detection
-- Cross-spectral image patch matching
 - Remote sensing image segmentation
 - Accurate measurement of fish characteristics
 
