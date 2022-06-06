@@ -8,7 +8,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I am a student at Shenyang Institute of Automation Chinese Academy of Sciences. (Mentor: Yunpeng Liu)
+I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences. (Mentor: Yunpeng Liu)
 
 🔭 **Reseach-wise, I mainly focus on**:
 
