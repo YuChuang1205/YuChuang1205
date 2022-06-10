@@ -43,10 +43,10 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 <!-- + Zhuhua Hu*, Ruoqing Li, Xin Xia, **Chuang Yu**, Xiang Fan, Yaochi Zhao. A method overview in smart aquaculture[J]. Accepted by *Environmental Monitoring and Assessment*. (2020, SCI)([[paper](https://www.researchgate.net/publication/342786036_A_method_overview_in_smart_aquaculture)]) -->
 
 
-<!-- **Conference papers:**  
+**Conference papers:**  
 + **Chuang Yu**, Yunpeng Liu, Zhuhua Hu*, Xin Xia*. Accurate segmentation of remote sensing cages based on U-Net and voting mechanism[C]. Accepted by *7th Asia Pacific Conference on Optics Manufacture, APCOM 2021*. (2021) ([[paper](http://dx.doi.org/10.1117/12.2615946)])   ([[code](https://github.com/YuChuang1205/Remote-sensing-cage-segmentation-UNet-Vote)])  
 + Juntao Liu, **Chuang Yu**, Zhuhua Hu*, Yaochi Zhao, Xin Xia, Zhigang Tu, Ruoqing Li. Automatic and Accurate Prediction of Key Water Quality Parameters Based on SRU Deep Learning in Mariculture[C]. Accepted by *IEEE ICAM 2018*. (2018)([[paper](https://www.researchgate.net/publication/330589006_Automatic_and_Accurate_Prediction_of_Key_Water_Quality_Parameters_Based_on_SRU_Deep_Learning_in_Mariculture)])
- -->
+
 
 
 
