@@ -15,7 +15,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 - Cross-spectral image patch matching  
 - Infrared small target detection
 - Remote sensing image segmentation
-- Accurate measurement of fish characteristics
+- Precise measurement of fish characteristics  
 
 😄 **I am open to**:
 
