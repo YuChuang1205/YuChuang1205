@@ -29,6 +29,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 
 
 🌱 **Publications (Some representative papers)**:  
++ **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Shuhang Wu, Zhuhua Hu. Feature Interaction Learning Network for Cross-Spectral Image Patch Matching. Accepted by *IEEE Transactions on Image Processing*. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10251126)])
 + **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Shuhang Wu, Chenxi Li. Efficient Feature Relation Learning Network for Cross-Spectral Image Patch Matching. Accepted by *IEEE Transactions on Geoscience and Remote Sensing*. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10164118)])
 + **Chuang Yu**, Yunpeng Liu*, Chenxi Li, Lin Qi, Xin Xia, Tianci Liu, Zhuhua Hu. Multi-branch Feature Difference Learning Network for Cross-Spectral Image Patch Matching. Accepted by *IEEE Transactions on Geoscience and Remote Sensing*. (2022, SCI) ([[paper](https://ieeexplore.ieee.org/document/9777946)])  
 + **Chuang Yu**, Yunpeng Liu*, Xin Xia, Deyan Lan, Xin Liu, Shuhang Wu. Precise and fast segmentation of offshore farms in high-resolution SAR images based on model fusion and half-precision parallel inference. Accepted by *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. (2022, SCI)([[paper](https://ieeexplore.ieee.org/document/9793701)])  
