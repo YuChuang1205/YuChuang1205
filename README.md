@@ -20,7 +20,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 😄 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type)
-- PhD position, research internships, or visiting scholar
+- postdoctoral position, research internships, or visiting scholar
 
 
 📫 **How to reach me**:
