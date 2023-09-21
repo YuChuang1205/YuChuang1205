@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yuchuang1205" alt="profile views" /> 
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences. (Mentor: Yunpeng Liu)
