@@ -46,6 +46,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 + Journal Reviewer
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
   - Expert Systems With Applications (ESWA)  
-  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)  
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+  - Engineering Applications of Artificial Intelligence (EAAI)  
 
 
