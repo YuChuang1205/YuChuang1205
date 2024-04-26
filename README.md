@@ -41,7 +41,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 + Juntao Liu, **Chuang Yu**, Zhuhua Hu*, Yaochi Zhao, Yong Bai, Mingshan Xie, Jian Luo. Accurate Prediction Scheme of Water Quality in Smart Mariculture With Deep Bi-S-SRU Learning Network[J]. Accepted by *IEEE ACCESS*. (2020, SCI)([[paper](https://www.researchgate.net/publication/339011910_Accurate_Prediction_Scheme_of_Water_Quality_in_Smart_Mariculture_with_Deep_Bi-S-SRU_Learning_Network)])
 
 
-😄 **Honors (Some representative Awards)**:
+😄 **Honors (Some representative awards)**:
 + The 3rd prize in the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (**Team leader**)     (2024)
 + The 3rd place of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)     (2023)
 + The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
