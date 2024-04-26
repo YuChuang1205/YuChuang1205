@@ -17,7 +17,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 - Remote sensing image segmentation
 - Precise measurement of fish characteristics  
 
-😄 **I am open to**:
+👯 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type)
 - postdoctoral position, research internships, or visiting scholar
@@ -39,6 +39,9 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 + **Chuang Yu**, Yunpeng Liu*, Zhuhua Hu, Xin Xia. Precise Segmentation and Measurement of Inclined Fish’s Features Based on U-Net and Fish Morphological Characteristics[J]. Accepted by *Applied Engineering in Agriculture*. (2021, SCI) ([[paper](https://elibrary.asabe.org/abstract.asp?aid=53054)]) ([[code](https://github.com/YuChuang1205/Inclined-fish-characteristic-measurement-U-Net-Roctation-correction)])
 + Jinmiao Zhao, **Chuang Yu**, Zelin Shi*, Yunpeng Liu, Yingdi Zhang. Gradient-Guided Learning Network for Infrared Small Target Detection [J]. Accepted by *IEEE Geoscience and Remote Sensing Letters*. (2023, SCI)  ([[paper](https://ieeexplore.ieee.org/document/10230271)])    
 + Juntao Liu, **Chuang Yu**, Zhuhua Hu*, Yaochi Zhao, Yong Bai, Mingshan Xie, Jian Luo. Accurate Prediction Scheme of Water Quality in Smart Mariculture With Deep Bi-S-SRU Learning Network[J]. Accepted by *IEEE ACCESS*. (2020, SCI)([[paper](https://www.researchgate.net/publication/339011910_Accurate_Prediction_Scheme_of_Water_Quality_in_Smart_Mariculture_with_Deep_Bi-S-SRU_Learning_Network)])
+
+
+😄 **Honors (Some representative Awards)**:
 
 
 ⚡ **Services**:
