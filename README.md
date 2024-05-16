@@ -43,15 +43,15 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 
 
 😄 **Honors (Some representative awards)**:
-+ The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
++ **_The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_**      (**Team leader**) (2024)
 + The 3rd prize of the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (**Team leader**)     (2024)
 + The 3rd place of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)     (2023)
-+ **Outstanding Graduate Student Award of Shenyang Institute of Automation, Chinese Academy of Sciences. (Top 1%)**  (2023)
++ **_Outstanding Graduate Student Award of Shenyang Institute of Automation, Chinese Academy of Sciences. (Top 1%)_**  (2023)
 + Pacemaker to Merit Student of the University of Chinese Academy of Sciences. (Top 1%)  (2023)
-+ **National Scholarship (Top 2%)**  (2022)
-+ **Outstanding Graduates of  Hainan University. (Top 1%)**   (2020)
++ **_National Scholarship (Top 2%)_**  (2022)
++ **_Outstanding Graduates of  Hainan University. (Top 1%)_**   (2020)
 + The 2nd prize of China Collegiate Computing Contest Artificial Intelligence Innovation Contest. (**Team leader**)   (2019)
-+ **National Encouragement Scholarship for three consecutive years (Top 2%)**   (2016 - 2019)
++ **_National Encouragement Scholarship for three consecutive years (Top 2%)_**   (2016 - 2019)
 
 ⚡ **Services**:
 
@@ -61,11 +61,22 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
   - Engineering Applications of Artificial Intelligence (EAAI)  
 
-'''
-+ The 5th place of Change Detection in High-resolution and Multi-temporal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)  
-+ The 7th place of Forgery Detection in Multi-scenario Remote Sensing Images of Typical Objects in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
-+ The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
-'''
+
+<!--
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YuChuang1205&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- WeChat (微信号)： (Anoymous requests are not welcome)
+- The 5th place of Change Detection in High-resolution and Multi-temporal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)  
+- The 7th place of Forgery Detection in Multi-scenario Remote Sensing Images of Typical Objects in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
+- The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
+-->
 
 
 
