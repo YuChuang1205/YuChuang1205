@@ -43,11 +43,9 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 
 
 😄 **Honors (Some representative awards)**:
-+ The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application     (2024)
-+ 
++ The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
 + The 3rd prize of the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (**Team leader**)     (2024)
 + The 3rd place of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)     (2023)
-+ The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
 + **Outstanding Graduate Student Award of Shenyang Institute of Automation, Chinese Academy of Sciences. (Top 1%)**  (2023)
 + Pacemaker to Merit Student of the University of Chinese Academy of Sciences. (Top 1%)  (2023)
 + **National Scholarship (Top 2%)**  (2022)
@@ -62,5 +60,12 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
   - Expert Systems With Applications (ESWA)  
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
   - Engineering Applications of Artificial Intelligence (EAAI)  
+
+'''
++ The 5th place of Change Detection in High-resolution and Multi-temporal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)  
++ The 7th place of Forgery Detection in Multi-scenario Remote Sensing Images of Typical Objects in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
++ The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
+'''
+
 
 
