@@ -43,14 +43,16 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 
 
 😄 **Honors (Some representative awards)**:
-+ The 3rd prize in the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (**Team leader**)     (2024)
++ The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application     (2024)
++ 
++ The 3rd prize of the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (**Team leader**)     (2024)
 + The 3rd place of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)     (2023)
 + The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
 + **Outstanding Graduate Student Award of Shenyang Institute of Automation, Chinese Academy of Sciences. (Top 1%)**  (2023)
 + Pacemaker to Merit Student of the University of Chinese Academy of Sciences. (Top 1%)  (2023)
 + **National Scholarship (Top 2%)**  (2022)
 + **Outstanding Graduates of  Hainan University. (Top 1%)**   (2020)
-+ The 2nd prize of  China Collegiate Computing Contest Artificial Intelligence Innovation Contest. (**Team leader**)   (2019)
++ The 2nd prize of China Collegiate Computing Contest Artificial Intelligence Innovation Contest. (**Team leader**)   (2019)
 + **National Encouragement Scholarship for three consecutive years (Top 2%)**   (2016 - 2019)
 
 ⚡ **Services**:
