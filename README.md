@@ -53,7 +53,9 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 + The 2nd prize of China Collegiate Computing Contest Artificial Intelligence Innovation Contest. (**Team leader**)   (2019)
 + **_National Encouragement Scholarship for three consecutive years (Top 2%)_**   (2016 - 2019)
 
-
+🚀 **Some personal news reports**:
++ The 1st place in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application. ([[news report link](http://www.sia.cas.cn/xwzx/kydt/202405/t20240527_7173244.html)])
++ The title of Outstanding Communist Youth League Member of the Chinese Academy of Sciences. ([[news report link](http://www.sia.cas.cn/dj/gzdt/202405/t20240509_7156313.html)])
 
 ⚡ **Services**:
 
