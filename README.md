@@ -38,7 +38,6 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 + **Chuang Yu**, Yunpeng Liu*,Xin Xia, Zhuhua Hu, Shengpeng Fu. Precise segmentation of remote sensing cage images based on SegNet and voting mechanism [J]. Accepted by *Applied Engineering in Agriculture* (2022,SCI) ([[paper](https://www.webofscience.com/wos/alldb/full-record/WOS:000811687400011)]) ([[code](https://github.com/YuChuang1205/Remote-sensing-cage-segmentation-SegNet-Vote)])
 + **Chuang Yu**, Yunpeng Liu*, Zhuhua Hu, Xin Xia. Precise Segmentation and Measurement of Inclined Fish’s Features Based on U-Net and Fish Morphological Characteristics[J]. Accepted by *Applied Engineering in Agriculture*. (2021, SCI) ([[paper](https://elibrary.asabe.org/abstract.asp?aid=53054)]) ([[code](https://github.com/YuChuang1205/Inclined-fish-characteristic-measurement-U-Net-Roctation-correction)])
 + Jinmiao Zhao, **Chuang Yu**, Zelin Shi*, Yunpeng Liu, Yingdi Zhang. Gradient-Guided Learning Network for Infrared Small Target Detection [J]. Accepted by *IEEE Geoscience and Remote Sensing Letters*. (2023, SCI)  ([[paper](https://ieeexplore.ieee.org/document/10230271)])    
-+ Juntao Liu, **Chuang Yu**, Zhuhua Hu*, Yaochi Zhao, Yong Bai, Mingshan Xie, Jian Luo. Accurate Prediction Scheme of Water Quality in Smart Mariculture With Deep Bi-S-SRU Learning Network[J]. Accepted by *IEEE ACCESS*. (2020, SCI)([[paper](https://www.researchgate.net/publication/339011910_Accurate_Prediction_Scheme_of_Water_Quality_in_Smart_Mariculture_with_Deep_Bi-S-SRU_Learning_Network)])
 
 
 😄 **Honors (Some representative awards)**:
@@ -81,6 +80,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 - The 7th place of Forgery Detection in Multi-scenario Remote Sensing Images of Typical Objects in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
 - The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
 -  **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Dou Quan, Zelin Shi. Relational Representation Learning Network for Cross-Spectral Image Patch Matching. arXiv: 2403.11751. (2024) ([[paper](https://arxiv.org/abs/2403.11751)])   
+- Juntao Liu, **Chuang Yu**, Zhuhua Hu*, Yaochi Zhao, Yong Bai, Mingshan Xie, Jian Luo. Accurate Prediction Scheme of Water Quality in Smart Mariculture With Deep Bi-S-SRU Learning Network[J]. Accepted by *IEEE ACCESS*. (2020, SCI)([[paper](https://www.researchgate.net/publication/339011910_Accurate_Prediction_Scheme_of_Water_Quality_in_Smart_Mariculture_with_Deep_Bi-S-SRU_Learning_Network)])
 
 🚀 **Some personal news reports**:
 -->
