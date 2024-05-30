@@ -54,8 +54,6 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 + **_National Encouragement Scholarship for three consecutive years (Top 2%)_**   (2016 - 2019)
 
 
-🚀 **Some personal news reports**:
-
 
 ⚡ **Services**:
 
@@ -81,6 +79,8 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 - The 5th place of Change Detection in High-resolution and Multi-temporal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)  
 - The 7th place of Forgery Detection in Multi-scenario Remote Sensing Images of Typical Objects in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
 - The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
+
+🚀 **Some personal news reports**:
 -->
 
 
