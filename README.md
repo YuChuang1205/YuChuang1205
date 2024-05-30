@@ -20,7 +20,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 👯 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type)
-- postdoctoral position, research internships, or visiting scholar
+- research internships, or visiting scholar
 
 
 📫 **How to reach me**:
@@ -81,6 +81,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 - The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
 -  **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Dou Quan, Zelin Shi. Relational Representation Learning Network for Cross-Spectral Image Patch Matching. arXiv: 2403.11751. (2024) ([[paper](https://arxiv.org/abs/2403.11751)])   
 - Juntao Liu, **Chuang Yu**, Zhuhua Hu*, Yaochi Zhao, Yong Bai, Mingshan Xie, Jian Luo. Accurate Prediction Scheme of Water Quality in Smart Mariculture With Deep Bi-S-SRU Learning Network[J]. Accepted by *IEEE ACCESS*. (2020, SCI)([[paper](https://www.researchgate.net/publication/339011910_Accurate_Prediction_Scheme_of_Water_Quality_in_Smart_Mariculture_with_Deep_Bi-S-SRU_Learning_Network)])
+- postdoctoral position, research internships, or visiting scholar
 
 🚀 **Some personal news reports**:
 -->
