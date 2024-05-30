@@ -29,7 +29,6 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 
 
 🌱 **Publications (Some representative papers)**:  
-+ **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Dou Quan, Zelin Shi. Relational Representation Learning Network for Cross-Spectral Image Patch Matching. arXiv: 2403.11751. (2024) ([[paper](https://arxiv.org/abs/2403.11751)])   
 + **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Shuhang Wu, Zhuhua Hu. Feature Interaction Learning Network for Cross-Spectral Image Patch Matching. Accepted by *IEEE Transactions on Image Processing*. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10251126)])
 + **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Shuhang Wu, Chenxi Li. Efficient Feature Relation Learning Network for Cross-Spectral Image Patch Matching. Accepted by *IEEE Transactions on Geoscience and Remote Sensing*. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10164118)])
 + **Chuang Yu**, Yunpeng Liu*, Chenxi Li, Lin Qi, Xin Xia, Tianci Liu, Zhuhua Hu. Multi-branch Feature Difference Learning Network for Cross-Spectral Image Patch Matching. Accepted by *IEEE Transactions on Geoscience and Remote Sensing*. (2022, SCI) ([[paper](https://ieeexplore.ieee.org/document/9777946)]) ([[code](https://github.com/YuChuang1205/MFD-Net)])   
@@ -81,6 +80,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 - The 5th place of Change Detection in High-resolution and Multi-temporal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)  
 - The 7th place of Forgery Detection in Multi-scenario Remote Sensing Images of Typical Objects in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application      (**Team leader**) (2024)
 - The 6th place of Multi-Object Tracking in Optical Satellite Videos in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)   (2023)
+-  **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Dou Quan, Zelin Shi. Relational Representation Learning Network for Cross-Spectral Image Patch Matching. arXiv: 2403.11751. (2024) ([[paper](https://arxiv.org/abs/2403.11751)])   
 
 🚀 **Some personal news reports**:
 -->
