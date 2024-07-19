@@ -8,7 +8,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences. 
 
 🔭 **Reseach-wise, I mainly focus on**:
 
@@ -71,7 +71,6 @@
 
 
 <!--
-I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences. 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YuChuang1205&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
