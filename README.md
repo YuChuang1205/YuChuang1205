@@ -8,14 +8,13 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences. (Mentor: Yunpeng Liu)
+I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences. 
 
 🔭 **Reseach-wise, I mainly focus on**:
 
 - Cross-spectral image matching  
 - Infrared small target detection
 - Remote sensing image segmentation
-- Precise measurement of fish characteristics  
 
 👯 **I am open to**:
 
@@ -42,6 +41,8 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 😄 **Honors (Some representative awards)**:
 + **_The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_**      (**Team leader**) (2024)
 + **_The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge_** (**Team leader**) (2024)
++ **_The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1: Weakly Supervised Infrared Small Target Detection_** (**Team leader**) (2024)
++ **_The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 2: Lightweight Infrared Small Target Detection_** (**Team leader**) (2024)
 + The 3rd prize of the First "Shensi Cup" - Urban Lifeline·AI Problem Solving Challenge. (**Team leader**)     (2024)
 + The 3rd place of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)     (2023)
 + **_Outstanding Graduate Student Award of Shenyang Institute of Automation, Chinese Academy of Sciences. (Top 1%)_**  (2023)
@@ -63,7 +64,10 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - ISPRS Journal of Photogrammetry and Remote Sensing
-  - Neurocomputing  
+  - Neurocomputing
+
+
+
 
 
 <!--
