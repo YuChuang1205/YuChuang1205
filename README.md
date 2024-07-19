@@ -12,7 +12,7 @@ I am PhD student at Shenyang Institute of Automation Chinese Academy of Sciences
 
 🔭 **Reseach-wise, I mainly focus on**:
 
-- Cross-spectral image matching  
+- Cross-spectral image matching/registration/fusion  
 - Infrared small target detection
 - Remote sensing image segmentation
 
