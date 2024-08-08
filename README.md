@@ -57,12 +57,14 @@
 ⚡ **Services**:
 
 + Journal Reviewer
-  - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
-  - Expert Systems With Applications (ESWA)  
+  - ISPRS Journal of Photogrammetry and Remote Sensing
+  - IEEE Transactions on Geoscience and Remote Sensing (TGRS)  
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
   - Engineering Applications of Artificial Intelligence (EAAI)
-  - ISPRS Journal of Photogrammetry and Remote Sensing
+  - Expert Systems With Applications (ESWA)
   - Neurocomputing
+  - Signal Processing
+  - IEEE Sensors Journal
 
 
 
