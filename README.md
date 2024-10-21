@@ -25,15 +25,15 @@
 
 
 🌱 **Publications (Some representative papers)**:  
-+ **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Shuhang Wu, Zhuhua Hu. Feature Interaction Learning Network for Cross-Spectral Image Patch Matching. Accepted by ***IEEE Transactions on Image Processing***. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10251126)])
-+ **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Shuhang Wu, Chenxi Li. Efficient Feature Relation Learning Network for Cross-Spectral Image Patch Matching. Accepted by ***IEEE Transactions on Geoscience and Remote Sensing***. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10164118)])
++ **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Shuhang Wu, Zhuhua Hu. Feature Interaction Learning Network for Cross-Spectral Image Patch Matching. Accepted by ***IEEE Transactions on Image Processing***. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10251126)]) ([[data/VIS-LWIR-patch-dataset](https://github.com/YuChuang1205/VIS-LWIR-patch-dataset)])([[data/SEN1-2-patch-dataset](https://github.com/YuChuang1205/SEN1-2-patch-dataset)])
++ **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Shuhang Wu, Chenxi Li. Efficient Feature Relation Learning Network for Cross-Spectral Image Patch Matching. Accepted by ***IEEE Transactions on Geoscience and Remote Sensing***. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10164118)]) ([[data/OS-patch-dataset](https://github.com/YuChuang1205/OS-patch-dataset)]) 
 + **Chuang Yu**, Yunpeng Liu*, Chenxi Li *et al*. Multi-branch Feature Difference Learning Network for Cross-Spectral Image Patch Matching. Accepted by ***IEEE Transactions on Geoscience and Remote Sensing***. (2022, SCI) ([[paper](https://ieeexplore.ieee.org/document/9777946)]) ([[code](https://github.com/YuChuang1205/MFD-Net)])   
 + **Chuang Yu**, Yunpeng Liu*, Xin Xia, Deyan Lan, Xin Liu, Shuhang Wu. Precise and fast segmentation of offshore farms in high-resolution SAR images based on model fusion and half-precision parallel inference. Accepted by ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***. (2022, SCI)([[paper](https://ieeexplore.ieee.org/document/9793701)])  
 + **Chuang Yu**, Yunpeng Liu*, Shuhang Wu, Xin Xia, Zhuhua Hu, Deyan Lan, Xin Liu. Pay Attention to Local Contrast Learning Networks for Infrared Small Target Detection [J]. Accepted by ***IEEE Geoscience and Remote Sensing Letters***. (2022, SCI)  ([[paper](https://ieeexplore.ieee.org/document/9785618)])([[code](https://github.com/YuChuang1205/ALCL-Net)]) 
 + **Chuang Yu**, Yunpeng Liu*, Shuhang Wu, Zhuhua Hu, Xin Xia, Deyan Lan, Xin Liu. Infrared small target detection based on multiscale local contrast learning networks[J]. Accepted by ***Infrared Physics & Technology***. (2022, SCI) ([[paper](https://doi.org/10.1016/j.infrared.2022.104107)]) ([[code](https://github.com/YuChuang1205/MLCL-Net)])
 + **Chuang Yu**, Yunpeng Liu*,Xin Xia, Zhuhua Hu, Shengpeng Fu. Precise segmentation of remote sensing cage images based on SegNet and voting mechanism [J]. Accepted by *Applied Engineering in Agriculture* (2022,SCI) ([[paper](https://www.webofscience.com/wos/alldb/full-record/WOS:000811687400011)]) ([[code](https://github.com/YuChuang1205/Remote-sensing-cage-segmentation-SegNet-Vote)])
 + **Chuang Yu**, Yunpeng Liu*, Zhuhua Hu, Xin Xia. Precise Segmentation and Measurement of Inclined Fish’s Features Based on U-Net and Fish Morphological Characteristics[J]. Accepted by *Applied Engineering in Agriculture*. (2021, SCI) ([[paper](https://elibrary.asabe.org/abstract.asp?aid=53054)]) ([[code](https://github.com/YuChuang1205/Inclined-fish-characteristic-measurement-U-Net-Roctation-correction)])
-+ Jinmiao Zhao, **Chuang Yu**, Zelin Shi*, Yunpeng Liu, Yingdi Zhang. Gradient-Guided Learning Network for Infrared Small Target Detection [J]. Accepted by *IEEE Geoscience and Remote Sensing Letters*. (2023, SCI)  ([[paper](https://ieeexplore.ieee.org/document/10230271)])    
++ Jinmiao Zhao, **Chuang Yu**, Zelin Shi*, Yunpeng Liu, Yingdi Zhang. Gradient-Guided Learning Network for Infrared Small Target Detection [J]. Accepted by *IEEE Geoscience and Remote Sensing Letters*. (2023, SCI)  ([[paper](https://ieeexplore.ieee.org/document/10230271)]) ([[code](https://github.com/YuChuang1205/MSDA-Net)])    
 
 
 😄 **Honors (Some representative awards)**:
@@ -45,7 +45,7 @@
 + The *3rd place* of Marine Farms Segmentation in High-Resolution SAR Images in the 5TH Gaofen Challenge on Automated High Resolution Earth Observation Image Interpretation. (**Team leader**)     (2023)
 + **_Outstanding Graduate Student Award of Shenyang Institute of Automation, Chinese Academy of Sciences. (Top 1%)_**  (2023)
 + Pacemaker to Merit Student of the University of Chinese Academy of Sciences. (Top 1%)  (2023, 2024)
-+ **_National Scholarship (Top 2%)_**  (2022)
++ **_National Scholarship (Top 2%)_**  (2022, 2024)
 + **_Outstanding Graduates of  Hainan University. (Top 1%)_**   (2020)
 + The *2nd prize* of China Collegiate Computing Contest Artificial Intelligence Innovation Contest. (**Team leader**)   (2019)
 + **_National Encouragement Scholarship for three consecutive years (Top 2%)_**   (2016 - 2019)
@@ -56,15 +56,19 @@
 
 ⚡ **Services**:
 
-+ Journal Reviewer
++ Journal/Conference Reviewer
   - ISPRS Journal of Photogrammetry and Remote Sensing
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)  
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - Expert Systems With Applications (ESWA)
+  - Infrared Physics & Technology (IPT)
   - Neurocomputing
   - Signal Processing
   - IEEE Sensors Journal
+  - International Conference on Pattern Recognition (ICPR)
+    
+    
 
 
 
