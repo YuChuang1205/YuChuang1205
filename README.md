@@ -52,6 +52,7 @@
 
 🚀 **Some personal news reports**:
 + The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application. ([[news report link](http://www.sia.cas.cn/xwzx/kydt/202405/t20240527_7173244.html)])
++ The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge ([[news report link](http://www.sia.cas.cn/xwzx/kydt/202411/t20241113_7438837.html)])  
 + The Outstanding Communist Youth League Member of the Chinese Academy of Sciences. ([[news report link](http://www.sia.cas.cn/dj/gzdt/202405/t20240509_7156313.html)])
 
 ⚡ **Services**:
