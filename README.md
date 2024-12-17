@@ -67,6 +67,7 @@
   - Neurocomputing
   - Signal Processing
   - IEEE Sensors Journal
+  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
   - International Conference on Pattern Recognition (ICPR)
     
     
