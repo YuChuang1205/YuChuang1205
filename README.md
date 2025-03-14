@@ -25,7 +25,7 @@
 
 
 🌱 **Publications (Some representative papers)**:  
-+ **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Sicheng Zhao, Xiangyu Yue*. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. _arXiv preprint **arXiv:2412.11154**_, 2024. ([[paper](https://arxiv.org/abs/2412.11154)])([[code](https://github.com/YuChuang1205/PAL)])
++ **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Sicheng Zhao, Yimian Dai, Xiangyu Yue*. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. _arXiv preprint **arXiv:2412.11154**_, 2024. ([[paper](https://arxiv.org/abs/2412.11154)])([[code](https://github.com/YuChuang1205/PAL)])
 + **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Xiangyu Yue*. Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching. _arXiv preprint **arXiv:2412.11161**_, 2024. ([[paper](https://arxiv.org/abs/2412.11161)])([[code](https://github.com/YuChuang1205/KGL-Net)])
 + **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Dou Quan, Xiangyu Yue*. Relational Representation Learning Network for Cross-Spectral Image Patch Matching. _arXiv preprint **arXiv:2403.11751**_, 2024. ([[paper](https://arxiv.org/abs/2403.11751)])([[code](https://github.com/YuChuang1205/RRL-Net)])
 + **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Shuhang Wu, Zhuhua Hu. Feature Interaction Learning Network for Cross-Spectral Image Patch Matching. Accepted by ***IEEE Transactions on Image Processing***. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10251126)]) ([[data1](https://github.com/YuChuang1205/VIS-LWIR-patch-dataset)])([[data2](https://github.com/YuChuang1205/SEN1-2-patch-dataset)])([[code](https://github.com/YuChuang1205/RRL-Net)])
@@ -66,6 +66,7 @@
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)  
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
   - Engineering Applications of Artificial Intelligence (EAAI)
+  - Computers and Electronics in Agriculture (CEA)
   - Expert Systems With Applications (ESWA)
   - Infrared Physics & Technology (IPT)
   - Neurocomputing
