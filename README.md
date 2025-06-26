@@ -25,7 +25,7 @@
 
 
 🌱 **Publications (Some representative papers)**:  
-+ **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Sicheng Zhao, Yimian Dai, Xiangyu Yue*. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. _arXiv preprint **arXiv:2412.11154**_, 2024. ([[paper](https://arxiv.org/abs/2412.11154)])([[code](https://github.com/YuChuang1205/PAL)])
++ **Chuang Yu**, Jinmiao Zhao, Yunpeng Liu*, Sicheng Zhao, Yimian Dai, Xiangyu Yue*. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision. Accepted by **ICCV2025**. ([[paper](https://arxiv.org/abs/2412.11154)])([[code](https://github.com/YuChuang1205/PAL)])
 + **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Xiangyu Yue*. Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching. _arXiv preprint **arXiv:2412.11161**_, 2024. ([[paper](https://arxiv.org/abs/2412.11161)])([[code](https://github.com/YuChuang1205/KGL-Net)])
 + **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Dou Quan, Xiangyu Yue*. Relational Representation Learning Network for Cross-Spectral Image Patch Matching. _arXiv preprint **arXiv:2403.11751**_, 2024. ([[paper](https://arxiv.org/abs/2403.11751)])([[code](https://github.com/YuChuang1205/RRL-Net)])
 + **Chuang Yu**, Yunpeng Liu*, Jinmiao Zhao, Shuhang Wu, Zhuhua Hu. Feature Interaction Learning Network for Cross-Spectral Image Patch Matching. Accepted by ***IEEE Transactions on Image Processing***. (2023, SCI) ([[paper](https://ieeexplore.ieee.org/document/10251126)]) ([[data1](https://github.com/YuChuang1205/VIS-LWIR-patch-dataset)])([[data2](https://github.com/YuChuang1205/SEN1-2-patch-dataset)])([[code](https://github.com/YuChuang1205/RRL-Net)])
@@ -41,6 +41,7 @@
 
 
 😄 **Honors (Some representative awards)**:
++ **_CAS President Award - Special Prize (Top 0.1%)_**   (2025)
 + **_The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_**      (**Team leader**) (2024)
 + **_The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge_** (**Team leader**) (2024)
 + **_The 2nd prize in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 1: Weakly Supervised Infrared Small Target Detection_** (**Team leader**) (2024)
@@ -55,6 +56,7 @@
 + **_National Encouragement Scholarship for three consecutive years (Top 2%)_**   (2016 - 2019)
 
 🚀 **Some personal news reports**:
++ **CAS President Award - Special Prize** ([[news report link](http://www.sia.cas.cn/xwzx/zhxw/202506/t20250624_7874445.html)])  
 + The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application. ([[news report link](http://www.sia.cas.cn/xwzx/kydt/202405/t20240527_7173244.html)])
 + The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge ([[news report link](http://www.sia.cas.cn/xwzx/kydt/202411/t20241113_7438837.html)])  
 + The Outstanding Communist Youth League Member of the Chinese Academy of Sciences. ([[news report link](http://www.sia.cas.cn/dj/gzdt/202405/t20240509_7156313.html)])
