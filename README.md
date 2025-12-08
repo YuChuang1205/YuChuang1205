@@ -5,8 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=Yuchuang1205" alt="profile views" /> 
 </p>
 
+<!--
 [![YuChuang1205's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+[![YuChuang1205's github stats](https://github-readme-stats.vercel.app/api?username=YuChuang1205\&rank_icon=github)](https://github.com/YuChuang1205)
 
 🔭 **Reseach-wise, I mainly focus on**:
 
