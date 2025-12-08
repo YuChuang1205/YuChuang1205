@@ -73,12 +73,12 @@
   - IEEE Transactions on Geoscience and Remote Sensing (TGRS)  
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
   - Engineering Applications of Artificial Intelligence (EAAI)
+  - Knowledge-Based Systems (KBS)
   - Computers and Electronics in Agriculture (CEA)
   - Expert Systems With Applications (ESWA)
   - Infrared Physics & Technology (IPT)
   - Neurocomputing
   - Signal Processing
-  - IEEE Sensors Journal
   - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
   - International Conference on Computer Vision (ICCV)  
   - International Conference on Pattern Recognition (ICPR)
