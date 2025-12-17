@@ -12,6 +12,8 @@
 
 🔭 **Reseach-wise, I mainly focus on**:
 
+- Multimodal Chain-of-Thought (MCoT)
+- Image/Video Understanding and Reasoning
 - Cross-spectral image matching/registration/fusion  
 - Infrared small target detection
 - Remote sensing image segmentation
