@@ -1,4 +1,4 @@
-### Hi there, I'm Chuang Yu (余创 in Chinese) （PhD）!👋
+### Hi there, I'm Chuang Yu (余创 in Chinese) !👋
 
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/YuChuang1205?label=Followers" alt="github follow" />
