@@ -72,7 +72,7 @@
 ⚡ **Services**:
 
 + Journal/Conference Reviewer
-  - ISPRS Journal of Photogrammetry and Remote Sensing, TGRS, J-STARS, EAAI, KBS, CEA, ESWA, IPT, Neurocomputing, Signal Processing, etc.
+  - ISPRS Journal of Photogrammetry and Remote Sensing, TGRS, J-STARS, EAAI, KBS, CEA, ESWA, IPT, Neurocomputing, etc.
   - CVPR, ICCV, NeurIPS, ICML, ECCV, ICPR, etc.
 
     
