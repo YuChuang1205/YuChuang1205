@@ -48,7 +48,8 @@
 
 
 😄 **Honors (Some representative awards)**:
-+ **_CAS President Award - Special Prize (Top 0.1%)_**   (2025)
++ **_CAS President Award - Special Prize (中科院院长特别奖)_**   (2025)
++ **_Outstanding Graduates of Beijing (北京市优秀毕业生)_**   (2026)  
 + Outstanding Graduates of University of Chinese Academy of Sciences (Top 2%)   (2026)  
 + **_The 1st place of Water Body Extraction from High-resolution and Multi-modal Optical Images in the 2024 ISPRS TC I Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application_**      (**Team leader**) (2024)
 + **_The 1st prize in the PRCV2024 Wide-area Infrared Small Target Detection Challenge_** (**Team leader**) (2024)
