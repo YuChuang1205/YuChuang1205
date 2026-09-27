@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yuchuang1205" alt="profile views" /> 
 </p>
 
-I am now working on Recursive Self-Improvement (RSI), Multimodal Chain-of-Thought (MCoT), Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang@sia.cn**](yuchuang@sia.cn) / [**yuchuang1205@163.com**](yuchuang1205@163.com). 
+I am now working on Recursive Self-Improvement (RSI), Multimodal Chain-of-Thought (MCoT), Infrared small target detection, and Multimodal image registration. If you are seeking any form of <span style="color:#8B0000;">**academic cooperation (学术合作)**</span>, please feel free to email me at [**yuchuang1205@163.com**](yuchuang1205@163.com). 
 
 
 I have been honored to be a **Postdoc** at **CUHK-MMLab** from 2026, under the supervision of Prof. [**Xiangyu Yue**](https://xyue.io/).
